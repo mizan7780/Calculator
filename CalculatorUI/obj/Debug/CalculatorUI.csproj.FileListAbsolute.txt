@@ -1,0 +1,9 @@
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.exe
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\bin\Debug\CalculatorUI.pdb
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csprojResolveAssemblyReference.cache
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Form1.resources
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.Cache
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.exe
+E:\SEID-102890\WinForm\CalculatorUI\CalculatorUI\obj\Debug\CalculatorUI.pdb
